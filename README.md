@@ -3,9 +3,8 @@ This is modified [Friend Groups](http://wow.curseforge.com/addons/friend-groups/
 
 This addon is belongs to frankkkkk who is the original author. After the addon survived for more than 2 years, after the last official updated at Oct. 29. 2013, it finally stopped working with the newest battle.net [changes in Blizzard's 6.2.4 API](http://us.battle.net/wow/en/forum/topic/20742784697). I modified it to make it work, at least for me.
 
-Improvements, and bug reports should be addressed in the [issue tracker](https://github.com/Mikeprod/FriendGroups/issues)
+Improvements, and bug reports should be addressed in the [issue tracker](https://github.com/Thainii/FriendGroups/issues)
 
-Time table is tight I will do my best to address the tickets
 
 Thank you for your interest
 
