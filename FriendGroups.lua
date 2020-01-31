@@ -150,9 +150,7 @@ local function GetFriendInfoById(id)
 			isFavoriteFriend = accountInfo.isFavorite
 			bnetAccountId = accountInfo.bnetAccountID
 			isAFK = accountInfo.isAFK
-			isGameAFK = accountInfo.isGameAFK
 			isDND = accountInfo.isDND
-			isGameBusy = accountInfo.isGameBusy
 			mobile = accountInfo.isWowMobile
 			zoneName = accountInfo.areaName
 			lastOnline = accountInfo.lastOnlineTime
@@ -165,6 +163,8 @@ local function GetFriendInfoById(id)
 				class = gameAccountInfo.className
 				level = gameAccountInfo.characterLevel
 				client = gameAccountInfo.clientProgram
+				isGameAFK = gameAccountInfo.isGameAFK
+				isGameBusy = gameAccountInfo.isGameBusy
 				wowProjectID = gameAccountInfo.wowProjectID
 				gameText = gameAccountInfo.richPresence
 				zoneName = gameAccountInfo.areaName

@@ -29,3 +29,4 @@ Credits
 - 7.1 Fixes : Mikeprod - [Github](https://github.com/Mikeprod/FriendGroups)
 - 8.2 Fixes : y368413
 - 8.2.5 Fixes : Mudohir - [Github](https://github.com/mudohir/FriendGroups)
+- 8.3 Fixes : Thainii - [Github](https://github.com/Thainii/FriendGroups)
